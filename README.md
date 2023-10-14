@@ -9,3 +9,4 @@ This is a simple login/signup form using React and PHP.
   - MySQL Database
   - Password hashing to ensure best security practices
 
+![Preview](/preview.png)
